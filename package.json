@@ -1,0 +1,17 @@
+{
+  "name": "repl-scooper-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "node Task_1.js",
+    "task2": "node Task_2.js",
+    "task3": "node Task_3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.6.7"
+  }
+}
